@@ -1,4 +1,4 @@
-Puedes visualizar el proyecto tú mismo en el sgte enlace ➡ https://curious-macaron-f2122c.netlify.app/
+El proyecto consiste en apretar la interfaz para que de manera aleatoria se produzca un color en formato hex
 <br>
 
 
